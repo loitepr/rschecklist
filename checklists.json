@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Heving",
+        "lastUpdated": "01.10.2023",
+        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting"]
+    },
+    {
+        "name": "Senking",
+        "lastUpdated": "09.08.2021",
+        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting", "enda flere punkter", "testliste"]
+    },
+    {
+        "name": "Drukning",
+        "lastUpdated": "25.05.2024",
+        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting"]
+    },
+    {
+        "name": "Slep",
+        "lastUpdated": "09.09.2024",
+        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting"]
+    }
+]
