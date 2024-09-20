@@ -13,5 +13,10 @@
         "name": "Drukning",
         "lastUpdated": "25.05.2024",
         "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting"]
+    },
+    {
+        "name": "Slep",
+        "lastUpdated": "09.09.2024",
+        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting", "funker bra slik", "husk å ringe mamma"]
     }
 ]
