@@ -23,10 +23,10 @@
         "tiltakskort": false,
         "vessel": true,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "Før avgang",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -35,10 +35,10 @@
         "tiltakskort": false,
         "vessel": true,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "Før avgang",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -47,10 +47,10 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -59,10 +59,10 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     }
     ,
@@ -72,10 +72,10 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -84,10 +84,10 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -96,10 +96,10 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     },
     {
@@ -108,10 +108,10 @@
         "tiltakskort": true,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": {
+        "items": [{
             "name": "",
             "items": ["test", "test2", "test3", "test4"]
-        },
+        }],
         "phone": ""
     }
 ]
