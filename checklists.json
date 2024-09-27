@@ -1,48 +1,48 @@
 [
     {
         "name": "Personskade, alvorlig sykdom, dødsfall",
-        "sop": 0,
-        "tiltakskort": 1,
+        "sop": false,
+        "tiltakskort": true,
         "lastUpdated": "27.09.2024",
         "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
         "phone": "95177777"
     },
         {
         "name": "Grunnberøring",
-        "sop": 0,
-        "tiltakskort": 1,
+        "sop": false,
+        "tiltakskort": true,
         "lastUpdated": "27.09.2024",
         "items": ["punkt 1", "punkt 2", "punkt 3"],
         "phone": "110"
     },
     {
         "name": "Nødslep",
-        "sop": 1,
-        "tiltakskort": 0,
+        "sop": true,
+        "tiltakskort": false,
         "lastUpdated": "20.09.2024",
         "items": ["test", "test2", "test3", "test4"],
         "phone": ""
     },
         {
         "name": "Operasjonsplanlegging",
-        "sop": 1,
-        "tiltakskort": 0,
+        "sop": true,
+        "tiltakskort": false,
         "lastUpdated": "20.09.2024",
         "items": ["OBBO", "KS24", "bla. bla. bla.", "og så videre"],
         "phone": ""
     },
         {
         "name": "MORS",
-        "sop": 1,
-        "tiltakskort": 0,
+        "sop": true,
+        "tiltakskort": false,
         "lastUpdated": "20.09.2024",
         "items": ["test", "test2", "test3", "test4"],
         "phone": ""
     },
         {
         "name": "Hypotermi",
-        "sop": 1,
-        "tiltakskort": 0,
+        "sop": true,
+        "tiltakskort": false,
         "lastUpdated": "20.09.2024",
         "items": ["test", "test2", "test3", "test4"],
         "phone": ""
