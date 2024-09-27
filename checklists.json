@@ -2,7 +2,7 @@
     {
         "name": "Tiltakskort: Personskade, alvorlig sykdom, dødsfall",
         "lastUpdated": "27.09.2024",
-        "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt 95177777", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
+        "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
         "phone": "95177777"
     }
 ]
