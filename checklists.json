@@ -15,7 +15,7 @@
         {
             "name": "Fortøyd på stasjon",
             "checkpoint": ["test", "test2", "test3", "test4"]}],
-        "phone": "113"
+        "phone": ""
     },
     {
         "name": "Simrad",
@@ -47,10 +47,16 @@
         "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "group": [{
-            "name": "",
-            "checkpoint": ["test", "test2", "test3", "test4"]
-        }],
+        "group": [
+        {
+            "name": "Forberedelse",
+            "checkpoint": ["test", "test2", "test3", "test4"]},
+        {
+            "name": "Gjennomføring",
+            "checkpoint": ["test", "test2", "test3", "test4"] },
+        {
+            "name": "Avslutning",
+            "checkpoint": ["test", "test2", "test3", "test4"]}],
         "phone": ""
     },
     {
@@ -112,6 +118,6 @@
             "name": "",
             "checkpoint": ["test", "test2", "test3", "test4"]
         }],
-        "phone": ""
+        "phone": "95177777"
     }
 ]
