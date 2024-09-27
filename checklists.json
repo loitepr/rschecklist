@@ -1,8 +1,18 @@
 [
     {
         "name": "Tiltakskort: Personskade, alvorlig sykdom, dødsfall",
+        "sop": 0,
+        "tiltakskort": 1,
         "lastUpdated": "27.09.2024",
         "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
         "phone": "95177777"
+    },
+    {
+        "name": "Nødslep",
+        "sop": 1,
+        "tiltakskort": 0,
+        "lastUpdated": "20.09.2024",
+        "items": ["test", "test2", "test3", "test4"],
+        "phone": ""
     }
 ]
