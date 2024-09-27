@@ -1,30 +1,5 @@
 [
     {
-        "name": "Slep",
-        "lastUpdated": "20.09.2024",
-        "items": ["Sjekk høyde og dybde på havarist opp mot planlagt seilas.", "Hold RO oppdatert", "Sørg for at alle unngår farlige soner (snap back)", "Sikre kommunikasjon med havarist (tlf, vhf etc.)", "Planlegg alternative steder å legge havarist hvis det kommer hasteoppdrag"]
-    },
-    {
-        "name": "Senking",
-        "lastUpdated": "09.08.2021",
-        "items": ["Husk dette", "ikke glem", "og dette", "ikke gjør sånn", "viktig ting", "enda flere punkter", "testliste"]
-    },
-    {
-        "name": "Drukning",
-        "lastUpdated": "25.05.2024",
-        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting"]
-    },
-    {
-        "name": "Brannslukking",
-        "lastUpdated": "09.09.2024",
-        "items": ["Husk dette", "og dette", "ikke gjør sånn", "viktig ting", "funker bra slik", "husk å ringe mamma"]
-    },
-    {
-        "name": "Test",
-        "lastUpdated": "24.12.2099",
-        "items": ["test1", "test2", "test3", "test4", "test1", "test2", "test3", "test4", "test1", "test2", "test3", "test4", "test1", "test2", "test3", "test4", "test1", "test2", "test3", "test4", "test1", "test2", "test3", "test4"]
-    },
-    {
         "name": "Tiltakskort: Personskade, alvorlig sykdom, dødsfall",
         "lastUpdated": "27.09.2024",
         "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt 95177777", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
