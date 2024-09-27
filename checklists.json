@@ -1,83 +1,116 @@
 [
     {
-        "name": "Personskade, alvorlig sykdom, dødsfall",
+        "name": "Bergesen II",
         "sop": false,
-        "tiltakskort": true,
-        "vessel": false,
+        "tiltakskort": false,
+        "vessel": true,
         "lastUpdated": "27.09.2024",
-        "items": ["Sikre skadested", "Livreddende førstehjelp - frie luftveier, stans store blødninger, forebygg nedkjøling", "Varsle etter behov - HRS, Kystradio, Ambulanse (113), Medico", "Start behandling", "Varsle Beredskapsvakt", "Observer pasient", "Ved dødsfall; varsle AMK eller politi, ta hånd om avdøde, meld skøyta UAD, debrief"],
-        "phone": "95177777"
-    },
+        "items": [{
+            "name": "Før avgang",
+            "items": ["test", "test2", "test3", "test4"]},
         {
-        "name": "Grunnberøring",
+            "name": "Under seilas",
+            "items": ["test", "test2", "test3", "test4"] },
+        {
+            "name": "Fortøyd på stasjon",
+            "items": ["test", "test2", "test3", "test4"]}],
+        "phone": "113"
+    },
+    {
+        "name": "Simrad",
         "sop": false,
-        "tiltakskort": true,
+        "tiltakskort": false,
+        "vessel": true,
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "Før avgang",
+            "items": ["test", "test2", "test3", "test4"]
+        },
+        "phone": ""
+    },
+    {
+        "name": "Staff",
+        "sop": false,
+        "tiltakskort": false,
+        "vessel": true,
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "Før avgang",
+            "items": ["test", "test2", "test3", "test4"]
+        },
+        "phone": ""
+    },
+    {
+        "name": "Heving av fartøy",
+        "sop": true,
+        "tiltakskort": false,
         "vessel": false,
         "lastUpdated": "27.09.2024",
-        "items": ["punkt 1", "punkt 2", "punkt 3"],
-        "phone": "110"
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
+        "phone": ""
+    },
+    {
+        "name": "Hypotermi",
+        "sop": true,
+        "tiltakskort": false,
+        "vessel": false,
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
+        "phone": ""
+    }
+    ,
+    {
+        "name": "Drukning",
+        "sop": true,
+        "tiltakskort": false,
+        "vessel": false,
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
+        "phone": ""
     },
     {
         "name": "Nødslep",
         "sop": true,
         "tiltakskort": false,
         "vessel": false,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
         "phone": ""
     },
-        {
-        "name": "Operasjonsplanlegging",
-        "sop": true,
-        "tiltakskort": false,
-        "vessel": false,
-        "lastUpdated": "20.09.2024",
-        "items": ["OBBO", "KS24", "bla. bla. bla.", "og så videre"],
-        "phone": ""
-    },
-        {
+    {
         "name": "MORS",
         "sop": true,
         "tiltakskort": false,
         "vessel": false,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
         "phone": ""
     },
-        {
-        "name": "Hypotermi",
-        "sop": true,
-        "tiltakskort": false,
+    {
+        "name": "Grunnberøring",
+        "sop": false,
+        "tiltakskort": true,
         "vessel": false,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
-        "phone": ""
-    },
-        {
-        "name": "Bergesen II",
-        "sop": false,
-        "tiltakskort": false,
-        "vessel": true,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
-        "phone": ""
-    },
-        {
-        "name": "Staff",
-        "sop": false,
-        "tiltakskort": false,
-        "vessel": true,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
-        "phone": ""
-    },
-        {
-        "name": "Simrad",
-        "sop": false,
-        "tiltakskort": false,
-        "vessel": true,
-        "lastUpdated": "20.09.2024",
-        "items": ["test", "test2", "test3", "test4"],
+        "lastUpdated": "27.09.2024",
+        "items": {
+            "name": "",
+            "items": ["test", "test2", "test3", "test4"]
+        },
         "phone": ""
     }
 ]
